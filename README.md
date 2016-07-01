@@ -4,7 +4,7 @@ A quick guide for installing Ceph on a single node for demo purposes. It almost 
 
 # Linux Install
 
-Here we are going to install ceph on single node Ubuntu 14.04 with three OSD's
+Here we are going to install ceph on single node Ubuntu 14.04 with One Mon & Three OSD's
 
 # Prerequistes 
 
